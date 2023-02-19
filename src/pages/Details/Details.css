@@ -1,0 +1,10 @@
+.details-section {
+  background: var(--bg-color);
+  /* height: 100vh; */
+  color: var(--white);
+}
+
+.details-heading {
+  font-weight: 700;
+  font-size: 36px;
+}

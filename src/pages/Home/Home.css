@@ -1,0 +1,21 @@
+main {
+  background-color: var(--bg-color);
+}
+
+.movie-section {
+  padding: 100px 0;
+}
+
+.heading-primary {
+  color: #ffffff;
+  /* font-family: "DM Sans", Sans-serif; */
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 40px;
+}
+
+.movie-details h5,
+h2,
+p {
+  margin-bottom: 25px;
+}
